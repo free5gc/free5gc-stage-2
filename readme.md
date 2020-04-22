@@ -182,7 +182,7 @@ ueRoutingInfo:
 * UPF field will be the packet datapath when it match the destination above.
 :::
 
-
+***For more detail of SMF config, please refer to [here](https://hackmd.io/WUWR5vvoRDuyDJ09i0OlDA?both)***
 
 ## Run
 
